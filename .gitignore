@@ -1,0 +1,2 @@
+# ignore all logs - Impide añadir al repositorio archivos con extensión .log
+*.log
